@@ -1,0 +1,20 @@
+Starting program: /sogang/under/cse20221512/week4/temp/temp 
+[Inferior 1 (process 770391) exited with code 021]
+No source file named mian.c.
+Breakpoint 1 at 0x55555555515e: file main.c, line 8.
+Starting program: /sogang/under/cse20221512/week4/temp/temp 
+
+Breakpoint 1, main () at main.c:8
+8			num=i/2 + i;
+9			printf("num is %f \n",num);
+__printf (format=0x555555556004 "num is %f \n") at printf.c:28
+28	printf.c: No such file or directory.
+32	in printf.c
+Starting program: /sogang/under/cse20221512/week4/temp/temp 
+
+Breakpoint 1, main () at main.c:8
+8			num=i/2 + i;
+9			printf("num is %f \n",num);
+__printf (format=0x555555556004 "num is %f \n") at printf.c:28
+28	printf.c: No such file or directory.
+Quit
